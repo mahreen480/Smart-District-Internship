@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Mouse",
+    "price": 24.99,
+    "category": "Accessories",
+    "stock": 18
+  },
+  {
+    "id": 2,
+    "name": "Mechanical Keyboard",
+    "price": 79.5,
+    "category": "Accessories",
+    "stock": 6
+  },
+  {
+    "id": 3,
+    "name": "27-inch Monitor",
+    "price": 229,
+    "category": "Displays",
+    "stock": 4
+  },
+  {
+    "id": 4,
+    "name": "USB-C Hub",
+    "price": 34.75,
+    "category": "Adapters",
+    "stock": 0
+  }
+]
